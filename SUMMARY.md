@@ -17,14 +17,14 @@ No, i did not use any new package or technology.
 ### Indicate which files were changed heavily
 Here are the files which were changed:
 - [ArduinoFrontend/src/app/Libs/Workspace.ts](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-f83f941141970444d2d77d09c5e931e752d07cbe07011eb4845d1ede6f03f096) - Added logic for exporting to JSON
-- ArduinoFrontend/src/app/app.module.ts - Added new component Declarations here
-- ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.css - CSS of dialog here
-- ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.html - HTML of dialog here
-- ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.spec.ts - testing file for functions in dialog
-- ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.ts - TS front-end logic of dialog here
-- ArduinoFrontend/src/app/simulator/simulator.component.html - Added button to import and export here
-- ArduinoFrontend/src/app/simulator/simulator.component.spec.ts - Added tests here
-- ArduinoFrontend/src/app/simulator/simulator.component.ts - Added front-end logic for handeling button clicks and import JSON function here
+- [ArduinoFrontend/src/app/app.module.ts](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-c6b2a270da1e7846fcc614048c84970bf5cf427fbe31faac121c8ca668e09fe0) - Added new component Declarations here
+- [ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.css](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-2c346cf1bae87ff07b06ac63097efea3e3a896676391673efc37d0d741f03dd5) - CSS of dialog here
+- [ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.html](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-0f2975e1a9c83af969447dfe56a847a21686779073984b04e64042dbf3f4e5f2) - HTML of dialog here
+- [ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.spec.ts](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-44ae34f9c2d094652c8e13963c30bd3f48e7a43577d419cf0cce75f016d61fce) - testing file for functions in dialog
+- [ArduinoFrontend/src/app/export-jsondialog/export-jsondialog.component.ts](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-04eed452770283826a0d34c62a71f02927a8559c17e1e4913eac66a4c857b91d) - TS front-end logic of dialog here
+- [ArduinoFrontend/src/app/simulator/simulator.component.html](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-30565736e42cebd2ccfb4a1b62bbb7dd6bf8b07378ee0a30dccccdcc7a0055af) - Added button to import and export here
+- [ArduinoFrontend/src/app/simulator/simulator.component.spec.ts](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-ab07518b7ace96900608a8d04b83a3806cb7604aa637008076308092249cf58f) - Added tests here
+- [ArduinoFrontend/src/app/simulator/simulator.component.ts](https://github.com/frg-fossee/eSim-Cloud/commit/8fbea08aabe1252db21bb23e5e976b124980b475#diff-d51ddb40e1163c3f514e5f38732f4c3dfeff19e2a237629e727b13fe7898ae3d) - Added front-end logic for handeling button clicks and import JSON function here
 
 Here are the files which were heavily changed:
 - ArduinoFrontend/src/app/Libs/Workspace.ts
